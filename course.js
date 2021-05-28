@@ -1,7 +1,7 @@
 
       coursename = new Array();
       courselinks = new Array();
-      console.log('Sanheen Sethi');
+      console.log('Hi. Sanheen Sethi, Welcome');
       coursename.push('1. DataStructure and Algorithms [Abdul Bari]');
       courselinks.push('https://nitallcourses.blogspot.com/2021/05/abdul-bari-ds.html');
       
